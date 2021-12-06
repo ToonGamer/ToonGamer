@@ -1,7 +1,7 @@
 <img align='left' src='https://media.discordapp.net/attachments/680449178626818065/911924615805280256/20210818_161708-1.gif' width='20%'>  
 <img align='right' src='https://media.discordapp.net/attachments/680449178626818065/911924615805280256/20210818_161708-1.gif' width='20%'>  
 
-# Chanaphon
+# CNP HUB
 Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
 
   
