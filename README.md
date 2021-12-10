@@ -28,10 +28,6 @@ Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
   <tbody>
   <tr valign="top">
       <td width="25%" align="center">
-        <span><b>Nuxt.JS</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">
-      </td>
-      <td width="25%" align="center">
         <span><b>Vue</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
@@ -41,7 +37,6 @@ Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
         <span>Visual Studio Code</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Java</span><br><br>
@@ -50,10 +45,6 @@ Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
       <td width="25%" align="center">
         <span>php</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Tailwind Css</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
       </td>
     </tr>
   </tbody>
