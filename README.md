@@ -33,37 +33,20 @@ Owner on [CNP Community](https://discord.gg/cwtjSfD6fv)
 <p align="center">
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a alt="typescript" width="40" height="40"/> </a> </p>
 </p>
-## **Edit Code IN**
+**Edit Code IN**
 
 <table>
   <tbody>
-  <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Vue</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-    </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span>Visual Studio Code</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Java</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>php</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
-      </td>
-    </tr>
   </tbody>
 </table>
 
-<!--END_SECTION:activity-->
 
-### 📈 Stats
+📈 Stats
 
 ![Profile views](https://gpvc.arturio.dev/Vedza)
 
